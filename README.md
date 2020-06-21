@@ -20,5 +20,5 @@ On this page, we can find the conjugation of verbs in various languages. We will
 ## Objective
 
 The aims of this is obtain each verb tense of 2000 links.
-Each tense has sentences of first, second, third person plural and plural. There are six sentences in total.
+Each tense has sentences of first, second, third person singular and plural. There are six sentences in total.
 You can run the program from the console and observe the link and number of the scraped verb.
