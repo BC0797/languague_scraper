@@ -16,6 +16,7 @@ On this page, we can find the conjugation of verbs in various languages. We will
 - pandas;
 - http.client;
 - logging;
+- re;
 
 ## Objective
 
