@@ -11,11 +11,11 @@ On this page, we can find the conjugation of verbs in various languages. We will
 
 ## Libraries
 
--requests;
--bs4 (BeautifulSoup);
--pandas;
--http.client;
--logging;
+- requests;
+- bs4 (BeautifulSoup);
+- pandas;
+- http.client;
+- logging;
 
 ## Objective
 
