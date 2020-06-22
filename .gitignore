@@ -1,0 +1,7 @@
+venv/
+Scraps/
+.vscode/
+.ipynb_checkpoints/
+.code-workspace
+.csv
+.ipynb
