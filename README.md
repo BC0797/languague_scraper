@@ -30,5 +30,5 @@ We have some links in HOME_LANGUAGE_URL for some languages.
 You only need to change the variable of the URL you want to scrape.
 For example:
 
-if __name__ == '__main__':
+if __name__ == '__main__':\n
     run(HOME_PORTUGUESE_URL)
