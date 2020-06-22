@@ -1,5 +1,5 @@
 # Languague_scraper
-This is a practice of how to make a scraper, you'll learn to find elements in the html, and select the information you want.
+This is a practice of how to make a scraper, you'll learn to find elements in the html, and select the information that you want.
 
 ## Introduction
 
